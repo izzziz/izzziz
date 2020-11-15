@@ -2,10 +2,11 @@
 
 
 
-### Hi there 👋
-![](https://img.shields.io/badge/Code-SWIFT-yellow)
-
-
+### Hi there 👋 - Everyone calls me Izzy !!
+![](https://img.shields.io/badge/Language-Swift-yellow)
+![](https://img.shields.io/badge/IDE-Xcode-blue)
+![](https://img.shields.io/badge/Language-Java-orange)
+![](https://img.shields.io/badge/IDE-Eclipse-blueviolet)
 
 <!-- Actual text -->
 Twitter or LinkedIn - [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
