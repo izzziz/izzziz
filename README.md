@@ -2,10 +2,10 @@
 
 
 
-### Hi there 👋 - Everyone calls me Izzy !!
+### Hey Everyone, I'm Izzat but my mates call me Izzy !!
 ![](https://img.shields.io/badge/Language-Swift-yellow)
-![](https://img.shields.io/badge/IDE-Xcode-blue)
 ![](https://img.shields.io/badge/Language-Java-orange)
+![](https://img.shields.io/badge/IDE-Xcode-blue)
 ![](https://img.shields.io/badge/IDE-Eclipse-blueviolet)
 
 <!-- Actual text -->
