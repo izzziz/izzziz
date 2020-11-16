@@ -5,12 +5,11 @@
 ### Hey...I'm Izzat but my mates call me Izzy !!
 ![](https://img.shields.io/badge/Language-Swift-yellow)
 ![](https://img.shields.io/badge/Language-Java-orange)
-
 ![](https://img.shields.io/badge/IDE-Xcode-blue)
 ![](https://img.shields.io/badge/IDE-Eclipse-blueviolet)
 
 <!-- Actual text -->
-Twitter or LinkedIn - [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
+Twitter & LinkedIn - [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
 
 
 <!-- Icons -->
