@@ -2,7 +2,7 @@
 
 
 
-### Hey...I'm Izzat but my mates call me Izzy !!
+### Hey...I'm Izzat but i go by Izzy !!
 ![](https://img.shields.io/badge/Language-Swift-yellow)
 ![](https://img.shields.io/badge/Language-Java-orange)
 ![](https://img.shields.io/badge/IDE-Xcode-blue)
