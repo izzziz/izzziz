@@ -2,11 +2,12 @@
 
 
 
-### Hi, I’m Izzy. 
+## Hi, I’m Izzy. 
 
-I’m a self-taught, best practice-driven iOS developer with a handful of developed applications. 
+### I’m a self-taught, best practice-driven iOS developer with a handful of developed applications.
 
-I also enjoy taking pictures from time to time, learning everything iOS related, basketball and playing chess. 
+
+### I also enjoy taking pictures from time to time, learning everything iOS related, basketball and playing chess. 
 
 
 
