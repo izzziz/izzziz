@@ -7,8 +7,7 @@
 ![](https://img.shields.io/badge/IDE-Eclipse-blueviolet)
 
 ### Hey, I’m Izzy. 
-### I’m a self-taught, best practice-driven iOS developer with a handful of developed applications.
-### I also enjoy taking pictures from time to time, learning everything iOS related, basketball and playing chess. 
+### I’m a self-taught, best practice-driven iOS developer with a handful of developed applications. I also enjoy taking pictures from time to time, learning everything iOS related, basketball and playing chess. 
 
 <!-- Actual text -->
 Twitter & LinkedIn - [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
