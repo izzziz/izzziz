@@ -2,7 +2,11 @@
 
 
 
-### Hey...I'm Izzat but i go by Izzy !!
+### Hi, I’m Izzy. 
+
+I’m a self-taught, best practice-driven iOS developer with a handful of developed applications. 
+
+I also enjoy taking pictures from time to time, learning everything iOS related, basketball and playing chess. 
 ![](https://img.shields.io/badge/Language-Swift-yellow)
 ![](https://img.shields.io/badge/Language-Java-orange)
 ![](https://img.shields.io/badge/IDE-Xcode-blue)
