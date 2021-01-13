@@ -7,9 +7,10 @@
 ![](https://img.shields.io/badge/IDE-Eclipse-blueviolet)
 
 ### Hey, I’m Izzy. 
-### I’m a self-taught, self motivated and best practice-driven iOS developer with a handful of developed applications. 
+## My mission is to create apps that make people's lives better and easier.
+### I’m a self-taught, self motivated and best practice-driven iOS developer with a handful of developed applications. ### I'm dedicated to continuously discovering, evaluating, and implementing new technologies to maximise development efficiency.
 
-### I'm dedicated to continuously discovering, evaluating, and implementing new technologies to maximise development efficiency. My mission is to create apps that make people's lives better and easier.
+
 
 <!-- Actual text -->
 ### Twitter & LinkedIn - [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
