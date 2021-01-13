@@ -6,7 +6,10 @@
 ![](https://img.shields.io/badge/IDE-Xcode-blue)
 ![](https://img.shields.io/badge/IDE-Eclipse-blueviolet)
 
-# Hey, I’m Izzy. 
+# Hey, I’m Izzy.   
+
+:basketball_man:  |  :hamburger:  |  :8ball:  |  :video_game:  |  :basketball:  |  :man_technologist:  |
+
 ## My mission is to create apps that make people's lives better and easier.
 ### I’m a self-taught, self motivated and best practice-driven iOS developer with a handful of developed applications. I'm dedicated to continuously discovering, evaluating, and implementing new technologies to maximise development efficiency.
 
