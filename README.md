@@ -12,7 +12,7 @@
 ### I'm dedicated to continuously discovering, evaluating, and implementing new technologies to maximise development efficiency. My mission is to create apps that make people's lives better and easier.
 
 <!-- Actual text -->
-Twitter & LinkedIn - [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
+### Twitter & LinkedIn - [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
