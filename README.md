@@ -11,7 +11,7 @@
  :chart_with_upwards_trend: | :chess_pawn: |  :hamburger:  |  :8ball:  |  :video_game:  |  :basketball:  |  :man_technologist:  
 
 ## My mission is to create apps that make people's lives better and easier.
-### I’m a self-taught, self motivated and best practice-driven iOS developer with a handful of developed applications. I'm dedicated to continuously discovering, evaluating, and implementing new technologies to maximise development efficiency.
+### I’m a proactive, self motivated and best practice-driven iOS developer with a handful of developed applications. I'm dedicated to continuously discovering, evaluating, and implementing new technologies to maximise development efficiency.
 
 
 
